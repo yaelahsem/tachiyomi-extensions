@@ -16793,6 +16793,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Coco Rip",
+    "pkg": "eu.kanade.tachiyomi.extension.es.cocorip",
+    "apk": "tachiyomi-es.cocorip-v1.4.31.apk",
+    "lang": "es",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Coco Rip",
+        "lang": "es",
+        "id": "2811607756759454878",
+        "baseUrl": "https://cocorip.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: CopyPasteScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.copypastescan",
     "apk": "tachiyomi-es.copypastescan-v1.4.32.apk",
