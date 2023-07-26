@@ -3033,10 +3033,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.4.183.apk",
+    "apk": "tachiyomi-all.mangadex-v1.4.184.apk",
     "lang": "all",
-    "code": 183,
-    "version": "1.4.183",
+    "code": 184,
+    "version": "1.4.184",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -10571,10 +10571,10 @@
   {
     "name": "Tachiyomi: MangaDods",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadods",
-    "apk": "tachiyomi-en.mangadods-v1.4.33.apk",
+    "apk": "tachiyomi-en.mangadods-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10583,7 +10583,7 @@
         "name": "MangaDods",
         "lang": "en",
         "id": "1005243067156766734",
-        "baseUrl": "https://www.mangadods.com",
+        "baseUrl": "https://mangadods.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
