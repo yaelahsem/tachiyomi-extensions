@@ -17247,6 +17247,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Koinobori Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.koinoboriscan",
+    "apk": "tachiyomi-es.koinoboriscan-v1.4.31.apk",
+    "lang": "es",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Koinobori Scan",
+        "lang": "es",
+        "id": "8075825407840893676",
+        "baseUrl": "https://koinoboriscan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Kumanga",
     "pkg": "eu.kanade.tachiyomi.extension.es.kumanga",
     "apk": "tachiyomi-es.kumanga-v1.4.8.apk",
@@ -17326,6 +17347,27 @@
         "id": "1864419645989454982",
         "baseUrl": "https://legionscans.com",
         "versionId": 2,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Last Knight Translation",
+    "pkg": "eu.kanade.tachiyomi.extension.es.lkscanlation",
+    "apk": "tachiyomi-es.lkscanlation-v1.4.31.apk",
+    "lang": "es",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Last Knight Translation",
+        "lang": "es",
+        "id": "4608749082635217570",
+        "baseUrl": "https://lkscanlation.com",
+        "versionId": 1,
         "hasCloudflare": 1
       }
     ]
@@ -17688,6 +17730,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Rightdark Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.rightdarkscan",
+    "apk": "tachiyomi-es.rightdarkscan-v1.4.31.apk",
+    "lang": "es",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Rightdark Scan",
+        "lang": "es",
+        "id": "710924825298427317",
+        "baseUrl": "https://rightdark-scan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: SamuraiScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.samuraiscan",
     "apk": "tachiyomi-es.samuraiscan-v1.4.32.apk",
@@ -17913,6 +17976,27 @@
         "lang": "es",
         "id": "8850093899291265785",
         "baseUrl": "https://tumangaonline.site",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Unitoon",
+    "pkg": "eu.kanade.tachiyomi.extension.es.unitoon",
+    "apk": "tachiyomi-es.unitoon-v1.4.31.apk",
+    "lang": "es",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Unitoon",
+        "lang": "es",
+        "id": "6185754253712667540",
+        "baseUrl": "https://lectorunitoon.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24379,10 +24463,10 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.4.38.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.4.39.apk",
     "lang": "ru",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24652,10 +24736,10 @@
   {
     "name": "Tachiyomi: MintManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.4.62.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.4.63.apk",
     "lang": "ru",
-    "code": 62,
-    "version": "1.4.62",
+    "code": 63,
+    "version": "1.4.63",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24715,10 +24799,10 @@
   {
     "name": "Tachiyomi: ReadManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.4.62.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.4.63.apk",
     "lang": "ru",
-    "code": 62,
-    "version": "1.4.62",
+    "code": 63,
+    "version": "1.4.63",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24757,10 +24841,10 @@
   {
     "name": "Tachiyomi: RuMIX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.rumix",
-    "apk": "tachiyomi-ru.rumix-v1.4.17.apk",
+    "apk": "tachiyomi-ru.rumix-v1.4.18.apk",
     "lang": "ru",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24799,10 +24883,10 @@
   {
     "name": "Tachiyomi: SelfManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.4.38.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.4.39.apk",
     "lang": "ru",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27319,10 +27403,10 @@
   {
     "name": "Tachiyomi: vomic",
     "pkg": "eu.kanade.tachiyomi.extension.zh.vomic",
-    "apk": "tachiyomi-zh.vomic-v1.4.3.apk",
+    "apk": "tachiyomi-zh.vomic-v1.4.4.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
