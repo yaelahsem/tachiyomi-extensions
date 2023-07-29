@@ -5592,10 +5592,10 @@
   {
     "name": "Tachiyomi: Pixiv",
     "pkg": "eu.kanade.tachiyomi.extension.all.pixiv",
-    "apk": "tachiyomi-all.pixiv-v1.4.5.apk",
+    "apk": "tachiyomi-all.pixiv-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5718,6 +5718,27 @@
         "baseUrl": "http://www.sandraandwoo.com",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Simply Cosplay",
+    "pkg": "eu.kanade.tachiyomi.extension.all.simplycosplay",
+    "apk": "tachiyomi-all.simplycosplay-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Simply Cosplay",
+        "lang": "all",
+        "id": "5522274089781089670",
+        "baseUrl": "https://www.simply-cosplay.com",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -15603,10 +15624,10 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.en.templescan",
-    "apk": "tachiyomi-en.templescan-v1.4.31.apk",
+    "apk": "tachiyomi-en.templescan-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15614,9 +15635,9 @@
       {
         "name": "Temple Scan",
         "lang": "en",
-        "id": "7025852861608073094",
+        "id": "4859394251147646039",
         "baseUrl": "https://templescan.net",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -21695,7 +21716,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki298.net",
+        "baseUrl": "https://manatoki299.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21703,7 +21724,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki298.com",
+        "baseUrl": "https://newtoki299.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26185,10 +26206,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.4.27.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.4.28.apk",
     "lang": "vi",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26605,10 +26626,10 @@
   {
     "name": "Tachiyomi: Baozi Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
-    "apk": "tachiyomi-zh.baozimanhua-v1.4.19.apk",
+    "apk": "tachiyomi-zh.baozimanhua-v1.4.20.apk",
     "lang": "zh",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 1,
