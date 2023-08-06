@@ -6926,27 +6926,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: مانجا العرب Manga Alarab",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.mangalarab",
-    "apk": "tachiyomi-ar.mangalarab-v1.4.32.apk",
-    "lang": "ar",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "مانجا العرب Manga Alarab",
-        "lang": "ar",
-        "id": "3659349346202197160",
-        "baseUrl": "https://manga-alarab.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: مانجا ليك",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalek",
     "apk": "tachiyomi-ar.mangalek-v1.4.33.apk",
@@ -7033,10 +7012,10 @@
   {
     "name": "Tachiyomi: MangaSpark",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaspark",
-    "apk": "tachiyomi-ar.mangaspark-v1.4.33.apk",
+    "apk": "tachiyomi-ar.mangaspark-v1.4.34.apk",
     "lang": "ar",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11257,27 +11236,6 @@
         "lang": "en",
         "id": "8579636777478699149",
         "baseUrl": "https://mangaking.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Manga Kio",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangakio",
-    "apk": "tachiyomi-en.mangakio-v1.4.32.apk",
-    "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Kio",
-        "lang": "en",
-        "id": "1809032265411406487",
-        "baseUrl": "https://mangakio.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18169,10 +18127,10 @@
   {
     "name": "Tachiyomi: AralosBD",
     "pkg": "eu.kanade.tachiyomi.extension.fr.aralosbd",
-    "apk": "tachiyomi-fr.aralosbd-v1.4.4.apk",
+    "apk": "tachiyomi-fr.aralosbd-v1.4.5.apk",
     "lang": "fr",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21361,11 +21319,11 @@
   {
     "name": "Tachiyomi: MangaRaw",
     "pkg": "eu.kanade.tachiyomi.extension.ja.manga9co",
-    "apk": "tachiyomi-ja.manga9co-v1.4.6.apk",
+    "apk": "tachiyomi-ja.manga9co-v1.4.7.apk",
     "lang": "ja",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
+    "code": 7,
+    "version": "1.4.7",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -21437,27 +21395,6 @@
         "lang": "ja",
         "id": "6223520752496636410",
         "baseUrl": "https://mangaraw.org",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaRawRU",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.mangarawru",
-    "apk": "tachiyomi-ja.mangarawru-v1.4.5.apk",
-    "lang": "ja",
-    "code": 5,
-    "version": "1.4.5",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaRawRU",
-        "lang": "ja",
-        "id": "4141244548126370547",
-        "baseUrl": "https://mangaraw.ru",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21634,10 +21571,10 @@
   {
     "name": "Tachiyomi: SyoSetu",
     "pkg": "eu.kanade.tachiyomi.extension.ja.syosetu",
-    "apk": "tachiyomi-ja.syosetu-v1.4.4.apk",
+    "apk": "tachiyomi-ja.syosetu-v1.4.5.apk",
     "lang": "ja",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
