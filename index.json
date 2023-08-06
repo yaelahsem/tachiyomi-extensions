@@ -4831,27 +4831,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MWManhwa",
-    "pkg": "eu.kanade.tachiyomi.extension.all.mwmanhwa",
-    "apk": "tachiyomi-all.mwmanhwa-v1.4.1.apk",
-    "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MWManhwa",
-        "lang": "all",
-        "id": "3977886331011695481",
-        "baseUrl": "https://mwmanhwa.net",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MyReadingManga",
     "pkg": "eu.kanade.tachiyomi.extension.all.myreadingmanga",
     "apk": "tachiyomi-all.myreadingmanga-v1.4.47.apk",
@@ -8020,10 +7999,10 @@
   {
     "name": "Tachiyomi: Colored Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.coloredmanga",
-    "apk": "tachiyomi-en.coloredmanga-v1.4.32.apk",
+    "apk": "tachiyomi-en.coloredmanga-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12376,27 +12355,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: ManhuaManga.net",
-    "pkg": "eu.kanade.tachiyomi.extension.en.manhuamanganet",
-    "apk": "tachiyomi-en.manhuamanganet-v1.4.3.apk",
-    "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ManhuaManga.net",
-        "lang": "en",
-        "id": "4446065254429792869",
-        "baseUrl": "https://manhuamanga.net",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manhua Plus",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuaplus",
     "apk": "tachiyomi-en.manhuaplus-v1.4.37.apk",
@@ -12750,27 +12708,6 @@
         "baseUrl": "https://manhwalover.com",
         "versionId": 1,
         "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ManhwaManga.net",
-    "pkg": "eu.kanade.tachiyomi.extension.en.manhwamanganet",
-    "apk": "tachiyomi-en.manhwamanganet-v1.4.8.apk",
-    "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ManhwaManga.net",
-        "lang": "en",
-        "id": "5866007440358889004",
-        "baseUrl": "https://manhwamanga.net",
-        "versionId": 1,
-        "hasCloudflare": 0
       }
     ]
   },
