@@ -18085,10 +18085,10 @@
   {
     "name": "Tachiyomi: YugenMangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.yugenmangas",
-    "apk": "tachiyomi-es.yugenmangas-v1.4.21.apk",
+    "apk": "tachiyomi-es.yugenmangas-v1.4.22.apk",
     "lang": "es",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18274,10 +18274,10 @@
   {
     "name": "Tachiyomi: FMTEAM",
     "pkg": "eu.kanade.tachiyomi.extension.fr.fmteam",
-    "apk": "tachiyomi-fr.fmteam-v1.4.1.apk",
+    "apk": "tachiyomi-fr.fmteam-v1.4.2.apk",
     "lang": "fr",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18285,9 +18285,9 @@
       {
         "name": "FMTEAM",
         "lang": "fr",
-        "id": "3999514012368634446",
+        "id": "7699632518084274667",
         "baseUrl": "https://fmteam.fr",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 0
       }
     ]
@@ -23758,10 +23758,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.reaperscans",
-    "apk": "tachiyomi-pt.reaperscans-v1.4.51.apk",
+    "apk": "tachiyomi-pt.reaperscans-v1.4.52.apk",
     "lang": "pt-BR",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25703,27 +25703,6 @@
         "lang": "tr",
         "id": "2533138448805911283",
         "baseUrl": "https://jiangzaitoon.co",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Manga Bilgini",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.mangabilgini",
-    "apk": "tachiyomi-tr.mangabilgini-v1.4.31.apk",
-    "lang": "tr",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Bilgini",
-        "lang": "tr",
-        "id": "6134278003502231085",
-        "baseUrl": "https://mangabilgini.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
