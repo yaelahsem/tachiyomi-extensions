@@ -23502,10 +23502,10 @@
   {
     "name": "Tachiyomi: Ninja Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.ninjascan",
-    "apk": "tachiyomi-pt.ninjascan-v1.4.32.apk",
+    "apk": "tachiyomi-pt.ninjascan-v1.4.33.apk",
     "lang": "pt-BR",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23514,7 +23514,7 @@
         "name": "Ninja Scan",
         "lang": "pt-BR",
         "id": "4392067503694697213",
-        "baseUrl": "https://ninjascan.xyz",
+        "baseUrl": "https://ninjascan.site",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24025,6 +24025,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: SSSScanlator",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
+    "apk": "tachiyomi-pt.sssscanlator-v1.4.26.apk",
+    "lang": "pt-BR",
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SSSScanlator",
+        "lang": "pt-BR",
+        "id": "1497838059713668619",
+        "baseUrl": "https://sssscanlator.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Starlight Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.starlightscan",
     "apk": "tachiyomi-pt.starlightscan-v1.4.26.apk",
@@ -24334,6 +24355,27 @@
         "lang": "pt-BR",
         "id": "2890945315158242406",
         "baseUrl": "https://wqscan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Wicked Witch Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.wickedwitchscan",
+    "apk": "tachiyomi-pt.wickedwitchscan-v1.4.31.apk",
+    "lang": "pt-BR",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Wicked Witch Scan",
+        "lang": "pt-BR",
+        "id": "1848530229465107611",
+        "baseUrl": "https://wickedwitchscan.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -27513,10 +27555,10 @@
   {
     "name": "Tachiyomi: Yidan Girl",
     "pkg": "eu.kanade.tachiyomi.extension.zh.yidan",
-    "apk": "tachiyomi-zh.yidan-v1.4.1.apk",
+    "apk": "tachiyomi-zh.yidan-v1.4.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
