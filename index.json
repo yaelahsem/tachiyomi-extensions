@@ -23628,10 +23628,10 @@
   {
     "name": "Tachiyomi: Peach Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.peachscan",
-    "apk": "tachiyomi-pt.peachscan-v1.4.31.apk",
+    "apk": "tachiyomi-pt.peachscan-v1.4.32.apk",
     "lang": "pt-BR",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23639,9 +23639,9 @@
       {
         "name": "Peach Scan",
         "lang": "pt-BR",
-        "id": "3971755668019534798",
-        "baseUrl": "https://www.peachscan.com",
-        "versionId": 1,
+        "id": "6018439128722635618",
+        "baseUrl": "https://peachscan.com",
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
