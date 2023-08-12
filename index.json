@@ -23164,27 +23164,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Mangazim",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mangazim",
-    "apk": "tachiyomi-pt.mangazim-v1.4.7.apk",
-    "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mangazim",
-        "lang": "pt-BR",
-        "id": "2261479970554286738",
-        "baseUrl": "https://mangazim.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MHentais",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mhentais",
     "apk": "tachiyomi-pt.mhentais-v1.4.32.apk",
@@ -24489,10 +24468,10 @@
   {
     "name": "Tachiyomi: Yomu Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yomumangas",
-    "apk": "tachiyomi-pt.yomumangas-v1.4.1.apk",
+    "apk": "tachiyomi-pt.yomumangas-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
