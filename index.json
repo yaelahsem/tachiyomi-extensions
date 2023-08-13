@@ -10673,10 +10673,10 @@
   {
     "name": "Tachiyomi: Manga Demon",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
-    "apk": "tachiyomi-en.mangademon-v1.4.1.apk",
+    "apk": "tachiyomi-en.mangademon-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10687,7 +10687,7 @@
         "id": "8089306398534489202",
         "baseUrl": "https://mangademon.org",
         "versionId": 1,
-        "hasCloudflare": 0
+        "hasCloudflare": 1
       }
     ]
   },
@@ -17626,6 +17626,27 @@
         "baseUrl": "https://manhwas.net",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mantraz Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mantrazscan",
+    "apk": "tachiyomi-es.mantrazscan-v1.4.31.apk",
+    "lang": "es",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mantraz Scan",
+        "lang": "es",
+        "id": "7172992930543738693",
+        "baseUrl": "https://mantrazscan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
