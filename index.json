@@ -7134,10 +7134,10 @@
   {
     "name": "Tachiyomi: Manga Starz",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangastarz",
-    "apk": "tachiyomi-ar.mangastarz-v1.4.34.apk",
+    "apk": "tachiyomi-ar.mangastarz-v1.4.35.apk",
     "lang": "ar",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7146,7 +7146,7 @@
         "name": "Manga Starz",
         "lang": "ar",
         "id": "6058166507489091982",
-        "baseUrl": "https://mangastarz.com",
+        "baseUrl": "https://mangalike.org",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -10694,10 +10694,10 @@
   {
     "name": "Tachiyomi: Manga Demon",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
-    "apk": "tachiyomi-en.mangademon-v1.4.2.apk",
+    "apk": "tachiyomi-en.mangademon-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18247,27 +18247,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Arcane scan",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.arcanescan",
-    "apk": "tachiyomi-fr.arcanescan-v1.4.26.apk",
-    "lang": "fr",
-    "code": 26,
-    "version": "1.4.26",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Arcane scan",
-        "lang": "fr",
-        "id": "645948055480249558",
-        "baseUrl": "https://arcanescan.fr",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Astral-Manga",
     "pkg": "eu.kanade.tachiyomi.extension.fr.astralmanga",
     "apk": "tachiyomi-fr.astralmanga-v1.4.31.apk",
@@ -18646,6 +18625,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Lelmanga",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.lelmanga",
+    "apk": "tachiyomi-fr.lelmanga-v1.4.26.apk",
+    "lang": "fr",
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lelmanga",
+        "lang": "fr",
+        "id": "8647761747185981431",
+        "baseUrl": "https://lelmanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Lelscan-VF",
     "pkg": "eu.kanade.tachiyomi.extension.fr.lelscanvf",
     "apk": "tachiyomi-fr.lelscanvf-v1.4.8.apk",
@@ -18829,27 +18829,6 @@
         "lang": "fr",
         "id": "1615599506055429686",
         "baseUrl": "https://pantheon-scan.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Patatescans",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.patatescans",
-    "apk": "tachiyomi-fr.patatescans-v1.4.28.apk",
-    "lang": "fr",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 1,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Patatescans",
-        "lang": "fr",
-        "id": "2282957843990293575",
-        "baseUrl": "https://patatescans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
