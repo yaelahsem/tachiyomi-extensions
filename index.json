@@ -23828,6 +23828,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Arkham Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.arkhamscan",
+    "apk": "tachiyomi-pt.arkhamscan-v1.4.26.apk",
+    "lang": "pt-BR",
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Arkham Scan",
+        "lang": "pt-BR",
+        "id": "4384661660987698972",
+        "baseUrl": "https://arkhamscan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Arthur Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.arthurscan",
     "apk": "tachiyomi-pt.arthurscan-v1.4.35.apk",
