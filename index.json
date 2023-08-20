@@ -1016,10 +1016,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.33.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.34.apk",
     "lang": "all",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8176,20 +8176,20 @@
   {
     "name": "Tachiyomi: Babel Wuxia",
     "pkg": "eu.kanade.tachiyomi.extension.en.babelwuxia",
-    "apk": "tachiyomi-en.babelwuxia-v1.4.27.apk",
+    "apk": "tachiyomi-en.babelwuxia-v1.4.31.apk",
     "lang": "en",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "Babel Wuxia",
         "lang": "en",
-        "id": "5192785909623553131",
-        "baseUrl": "https://babelwuxia.com",
-        "versionId": 1,
+        "id": "5609267969522033946",
+        "baseUrl": "https://read.babelwuxia.com",
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -20383,10 +20383,10 @@
   {
     "name": "Tachiyomi: MangaHub.fr",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangahubfr",
-    "apk": "tachiyomi-fr.mangahubfr-v1.4.31.apk",
+    "apk": "tachiyomi-fr.mangahubfr-v1.4.32.apk",
     "lang": "fr",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20459,6 +20459,27 @@
         "lang": "fr",
         "id": "3652925955775091756",
         "baseUrl": "https://mangas-origines.xyz",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mangas-Origines.fr",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.mangasoriginesfr",
+    "apk": "tachiyomi-fr.mangasoriginesfr-v1.4.31.apk",
+    "lang": "fr",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Mangas-Origines.fr",
+        "lang": "fr",
+        "id": "4803238581797687746",
+        "baseUrl": "https://mangas-origines.fr",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20675,6 +20696,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Shadowtrad",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.shadowtrad",
+    "apk": "tachiyomi-fr.shadowtrad-v1.4.31.apk",
+    "lang": "fr",
+    "code": 31,
+    "version": "1.4.31",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Shadowtrad",
+        "lang": "fr",
+        "id": "1846516980440706556",
+        "baseUrl": "https://shadowtrad.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Sushi-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscan",
     "apk": "tachiyomi-fr.sushiscan-v1.4.32.apk",
@@ -20711,27 +20753,6 @@
         "lang": "fr",
         "id": "6162166634373401025",
         "baseUrl": "https://www.thebeginningaftertheend.fr",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: VoirComic",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.voircomic",
-    "apk": "tachiyomi-fr.voircomic-v1.4.31.apk",
-    "lang": "fr",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "VoirComic",
-        "lang": "fr",
-        "id": "2131805627199762614",
-        "baseUrl": "https://voircomic.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
