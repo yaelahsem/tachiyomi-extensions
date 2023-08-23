@@ -24875,10 +24875,10 @@
   {
     "name": "Tachiyomi: Mangás Chan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangaschan",
-    "apk": "tachiyomi-pt.mangaschan-v1.4.26.apk",
+    "apk": "tachiyomi-pt.mangaschan-v1.4.27.apk",
     "lang": "pt-BR",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -24887,7 +24887,7 @@
         "name": "Mangás Chan",
         "lang": "pt-BR",
         "id": "2691607827452752161",
-        "baseUrl": "https://mangaschan.com",
+        "baseUrl": "https://mangaschan.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
