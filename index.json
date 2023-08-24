@@ -19937,10 +19937,10 @@
   {
     "name": "Tachiyomi: AralosBD",
     "pkg": "eu.kanade.tachiyomi.extension.fr.aralosbd",
-    "apk": "tachiyomi-fr.aralosbd-v1.4.5.apk",
+    "apk": "tachiyomi-fr.aralosbd-v1.4.6.apk",
     "lang": "fr",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
