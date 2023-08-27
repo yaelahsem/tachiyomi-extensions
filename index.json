@@ -10030,10 +10030,10 @@
   {
     "name": "Tachiyomi: Hiperdex",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiperdex",
-    "apk": "tachiyomi-en.hiperdex-v1.4.40.apk",
+    "apk": "tachiyomi-en.hiperdex-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10042,7 +10042,7 @@
         "name": "Hiperdex",
         "lang": "en",
         "id": "3064755045370217842",
-        "baseUrl": "https://1sthiperdex.com",
+        "baseUrl": "https://hiperdex.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
