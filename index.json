@@ -25400,10 +25400,10 @@
   {
     "name": "Tachiyomi: Random Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.4.36.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25412,7 +25412,7 @@
         "name": "Random Scan",
         "lang": "pt-BR",
         "id": "8295593204533043008",
-        "baseUrl": "https://randomscans.com",
+        "baseUrl": "https://randomscanlators.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
